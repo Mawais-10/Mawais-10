@@ -38,6 +38,4 @@ Docker • Redis • Git • GitHub Actions
 ---
 
 ## 📫 Connect with Me
-
-📌 GitHub: github.com/Mawais-10  
 🔗 LinkedIn: [https://www.linkedin.com/in/muhammad-awais-a67337260/]
