@@ -18,7 +18,7 @@
 
 ```js
 const awais = {
-  role:      "Full Stack Developer & Backend Architect",
+  role:      "Software Developer & Backend Architect",
   location:  "Pakistan 🇵🇰  •  Open to Remote",
   building:  "Scalable Microservices Architecture",
   learning:  ["System Design", "RabbitMQ Patterns", "AWS"],
