@@ -2,6 +2,8 @@
 
 <!-- HEADER: type=waving is the most stable capsule-render type -->
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:302b63&height=140&section=header&text=Muhammad%20Awais&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/> 
+ # Full Stack Developer
+ 
 
 
 
