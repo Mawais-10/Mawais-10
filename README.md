@@ -9,7 +9,7 @@
 
 
 <br/>
- **Full Stack Developer**
+ <p align="center"><b>Full Stack Developer</b></p>
 <!-- <img src="https://komarev.com/ghpvc/?username=mawais-10&style=flat-square&color=A78BFA&label=Profile+Views"/> -->
 
 </div>
