@@ -3,8 +3,7 @@
 <!-- HEADER: type=waving is the most stable capsule-render type -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:302b63&height=140&section=header&text=Muhammad%20Awais&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
 
-<!-- Typing SVG: demolab is very stable -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Node.js+%7C+React+%7C+Docker+%7C+RabbitMQ;Open+to+Remote+Opportunities+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
 
 <br/>
 
